@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Patrick Farias :) 
 
-- 🔭 Hoje estou em busca de uma primeira oportunidade no mercado Tech :D 
-- 🌱 Estudando NodeJS com Express
+- 🔭 Desenvolvedor Full Stack
+- 🌱 Estudando Programação com Node, NestJS e Angular
 - 📫 Fale comigo através do email: patrickfarias@live.com
 - 😄 Pronouns: ele/dele
   
